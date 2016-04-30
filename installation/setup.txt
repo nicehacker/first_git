@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 I'm really master.
 Ninja is not master.
+=======
+I'm master.
+I will uptate this file within few year.
+>>>>>>> ninja
